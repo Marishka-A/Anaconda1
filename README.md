@@ -65,6 +65,9 @@ public class HelloWorld : MonoBehaviour
 
 ```
 
+![2023-09-22_22-33-17](https://github.com/Marishka-A/Anaconda1/assets/126682278/de1bed75-971a-445c-90ba-01b5fbf2e56d)
+
+
 ## Задание 3
 
 Ход работы:
