@@ -33,6 +33,9 @@ Hello, world!
 
 ```
 
+![2023-09-22_22-36-36](https://github.com/Marishka-A/Anaconda1/assets/126682278/36484619-28b1-4bd4-9378-defa9f7f6a15)
+
+
 ## Задание 2
 
 Ход работы:
